@@ -1,6 +1,6 @@
 {
-  "name": "letterbox",
   "homepage": "http://rajdeepDevelopment.github.io/myletterbox.github.io",
+  "name": "letterbox",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
